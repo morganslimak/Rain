@@ -1,0 +1,5 @@
+#canvas {
+	border: 1px solid black;
+	background-image: url("scenery.jpeg");
+	background-size: 700px 800px;
+}
